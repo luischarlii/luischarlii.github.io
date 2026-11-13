@@ -1,0 +1,92 @@
+[
+  {
+    "name": "LC Universal Radio",
+    "category": "Entretenimiento",
+    "icon": "🎵",
+    "description": "Plataforma digital de radio y música con reproducción de estaciones y contenido sonoro.",
+    "url": "https://luischarlii.github.io/LC-Universal-Radio/",
+    "status": "ACTIVO",
+    "featured": true
+  },
+  {
+    "name": "LC ShortLinks",
+    "category": "Herramientas",
+    "icon": "🔗",
+    "description": "Creador y administrador de enlaces cortos con herramientas para organizar y compartir URLs.",
+    "url": "https://luischarlii.github.io/LC-ShortLinks/",
+    "status": "ACTIVO",
+    "featured": true
+  },
+  {
+    "name": "LC HTML Runner",
+    "category": "Herramientas",
+    "icon": "💻",
+    "description": "Entorno web para ejecutar proyectos HTML y experimentar con código directamente desde el navegador.",
+    "url": "https://luischarlii.github.io/LC-HTML-Runner/",
+    "status": "ACTIVO",
+    "featured": true
+  },
+  {
+    "name": "LC Prompt Studio",
+    "category": "IA",
+    "icon": "🧠",
+    "description": "Espacio para crear, guardar y organizar prompts para diferentes plataformas de inteligencia artificial.",
+    "url": "https://luischarlii.github.io/LC-Prompt-Studio/",
+    "status": "ACTIVO",
+    "featured": true
+  },
+  {
+    "name": "LC Pensiona México",
+    "category": "Utilidades",
+    "icon": "📊",
+    "description": "Herramienta de orientación y diagnóstico relacionada con pensiones.",
+    "url": "https://luischarlii.github.io/LC-Pensiona-Mexico/",
+    "status": "ACTIVO",
+    "featured": true
+  },
+  {
+    "name": "LC Cotizador",
+    "category": "Negocios",
+    "icon": "🧾",
+    "description": "Herramienta digital para generar y presentar cotizaciones de manera práctica y organizada.",
+    "url": "https://luischarlii.github.io/LC-Cotizador/",
+    "status": "ACTIVO",
+    "featured": false
+  },
+  {
+    "name": "LC Puro Tianguista",
+    "category": "Negocios",
+    "icon": "🛒",
+    "description": "Proyecto digital enfocado en vendedores, productos, comercio y oportunidades dentro del mundo del tianguis.",
+    "url": "#",
+    "status": "PRÓXIMAMENTE",
+    "featured": false
+  },
+  {
+    "name": "LC Universal Tools",
+    "category": "Herramientas",
+    "icon": "🛠️",
+    "description": "Colección de herramientas digitales creadas para reunir diferentes utilidades en un mismo ecosistema.",
+    "url": "#",
+    "status": "EN DESARROLLO",
+    "featured": false
+  },
+  {
+    "name": "LC Analizador de Código",
+    "category": "Herramientas",
+    "icon": "🔍",
+    "description": "Proyecto orientado al análisis de código y detección de patrones potencialmente maliciosos.",
+    "url": "#",
+    "status": "EN DESARROLLO",
+    "featured": false
+  },
+  {
+    "name": "LC Calculadora de Pensiones",
+    "category": "Utilidades",
+    "icon": "💰",
+    "description": "Proyecto orientado a ofrecer herramientas de apoyo para el análisis y orientación relacionada con pensiones.",
+    "url": "#",
+    "status": "EN DESARROLLO",
+    "featured": true
+  }
+]
